@@ -1,0 +1,22 @@
+{
+  "name": "products.api",
+  "version": "1.0.0",
+  "description": "api for ciisa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelopoblette/productsApi.git"
+  },
+  "keywords": [
+    "TrainingApi"
+  ],
+  "author": "Marcelo Poblete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelopoblette/productsApi/issues"
+  },
+  "homepage": "https://github.com/marcelopoblette/productsApi#readme"
+}
